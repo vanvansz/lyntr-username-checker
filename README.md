@@ -1,4 +1,4 @@
-# Username Checker
+# Lyntr Username Checker
 
 A simple Python script to check if usernames are claimed or unclaimed on Lyntr.
 
