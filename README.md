@@ -35,7 +35,7 @@ This script checks if usernames are available on Lyntr by querying their API. It
 
 1. **Prepare a List of Usernames**:
 
-   Create a text file with one username per line (e.g., `usernames.txt`).
+   Create/find a wordlist file with one username per line(e.g., `wordlist.txt`).
 
 2. **Run the Script**:
    ```bash
@@ -44,7 +44,7 @@ This script checks if usernames are available on Lyntr by querying their API. It
 
 3. **Follow the Prompt**:
 
-   Enter the path to the usernames file when prompted.
+   Enter the path to the wordlist file when prompted.
 
 4. **View Results**:
 
@@ -52,7 +52,7 @@ This script checks if usernames are available on Lyntr by querying their API. It
 
 ## Example
 ```bash
-Enter the path to the usernames file: usernames.txt
+Enter the path to the usernames file: wordlist.txt
 Username checking complete. Results saved to results.txt.
 ```
 
